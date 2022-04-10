@@ -1,1 +1,1 @@
-# második sor
+# otodik sor kesz
