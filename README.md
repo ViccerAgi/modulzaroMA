@@ -1,1 +1,1 @@
-# otodik sor kesz
+# ez a masodik sor
