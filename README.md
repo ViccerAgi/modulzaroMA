@@ -1,2 +1,1 @@
-# modulzaroMA
-# negyedik sor
+# otodik sor kesz
